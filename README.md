@@ -1,2 +1,2 @@
-# leetcode-python
-my answer of leetcode with python
+# leetcode-C
+my answer of leetcode in C
